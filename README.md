@@ -2,6 +2,20 @@
 
 A new Flutter project.
 
+Mobile
+
+![mobile](https://user-images.githubusercontent.com/36307747/131030466-a56c326c-ad76-41bd-9c46-f64f1987de75.PNG)
+
+Tablet
+
+![tablet](https://user-images.githubusercontent.com/36307747/131030572-a1217456-a21e-4fdf-b099-1987273862d9.PNG)
+
+Desktop
+
+![desktop](https://user-images.githubusercontent.com/36307747/131030630-b3521c20-e418-4962-b42b-8ca5bbe96c86.PNG)
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
